@@ -1,16 +1,16 @@
 {
   "apis" : [
         {
-          "name" = "test1",
-          "url" = "https://raw.githubusercontent.com/supermengjie/swagger_contracts/master/test1.json"
+          "name" : "test1",
+          "url" : "https://raw.githubusercontent.com/supermengjie/swagger_contracts/master/test1.json"
         },
         {
-          "name" = "test2",
-          "url" = "https://raw.githubusercontent.com/supermengjie/swagger_contracts/master/test2.json"
+          "name" : "test2",
+          "url" : "https://raw.githubusercontent.com/supermengjie/swagger_contracts/master/test2.json"
         },
         {
-          "name" = "test3",
-          "url" = "https://raw.githubusercontent.com/supermengjie/swagger_contracts/master/test3.json"
+          "name" : "test3",
+          "url" : "https://raw.githubusercontent.com/supermengjie/swagger_contracts/master/test3.json"
         }
   
   ]
